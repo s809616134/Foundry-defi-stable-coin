@@ -1,5 +1,6 @@
 ## A stablecoin tied to Ethereum, with staking and liquidity
 
+<p>
 1. Relative Stability: Anchored or Pegged ? Anchored -> $1
   1.1 Chainlink Price Feed
   1.2 Exchange ETH & BTC -> $$$
@@ -8,6 +9,7 @@
 3. Collateral: Exogenous (Crypto)
    3.1 wETH
    3.2 wBTC
+</p>
 
 ## Foundry
 
