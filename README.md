@@ -1,15 +1,24 @@
 ## A stablecoin tied to Ethereum, with staking and liquidity
 
-<p>
-1. Relative Stability: Anchored or Pegged ? Anchored -> $1
-  1.1 Chainlink Price Feed
-  1.2 Exchange ETH & BTC -> $$$
-2. Stability Mechanism (Minting): Algorithmic
-   2.1 only mint the coin with enough collateral (coded)
-3. Collateral: Exogenous (Crypto)
-   3.1 wETH
-   3.2 wBTC
-</p>
+<ol>
+<li>1. Relative Stability: Anchored or Pegged ? Anchored -> $1
+<ol>
+<li>Chainlink Price Feed</li>
+<li>Exchange ETH & BTC -> $$$</li>
+</ol>
+</li>
+<li>Stability Mechanism (Minting): Algorithmic
+<ol>
+<li>only mint the coin with enough collateral (coded)</li>
+</ol>
+</li>
+<li>Collateral: Exogenous (Crypto)
+<ol>
+<li>wETH</li>
+<li>wBTC</li>
+</ol>
+</li>
+</ol>
 
 ## Foundry
 
